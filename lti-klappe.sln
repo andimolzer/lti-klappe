@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lti-klappe", "lti-klappe\lti-klappe.vcxproj", "{A7F2D053-BC77-415F-9948-FDD60C8B87C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7F2D053-BC77-415F-9948-FDD60C8B87C6}.Debug|ARM.ActiveCfg = Debug|ARM
+		{A7F2D053-BC77-415F-9948-FDD60C8B87C6}.Debug|ARM.Build.0 = Debug|ARM
+		{A7F2D053-BC77-415F-9948-FDD60C8B87C6}.Release|ARM.ActiveCfg = Release|ARM
+		{A7F2D053-BC77-415F-9948-FDD60C8B87C6}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
